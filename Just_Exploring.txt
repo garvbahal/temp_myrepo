@@ -1,0 +1,4 @@
+1.git remote add origin URL
+2.git config --global user.name "USER_NAME"
+3.git config --global user.email "EMAIL"
+4.git push -u origin BRANCH_NAME
